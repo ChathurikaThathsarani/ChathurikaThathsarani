@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/chathurika thathsarani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chathurika thathsarani" height="30" width="40" /></a>
-<a href="https://instagram.com/chathurika-thathsarani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chathurika-thathsarani" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chathurika-thathsarani-3254b7230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chathurika thathsarani" height="30" width="40" /></a>
+<a href="https://www.instagram.com/chathurika_thathsarani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chathurika-thathsarani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
